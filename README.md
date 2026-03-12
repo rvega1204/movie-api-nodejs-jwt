@@ -64,8 +64,7 @@ A comprehensive backend API for managing a movie database and user watchlists. B
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd movie-full-api
+   git clone https://github.com/rvega1204/movie-api-nodejs-jwt.git
    ```
 
 2. **Install dependencies**:
